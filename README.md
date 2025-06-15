@@ -46,10 +46,8 @@ O projeto **PetShopDev** é uma landing page que foi criada no youtube pelo cana
 
 ## 🧪 Funcionalidades
 
-- ✅ Cadastro de usuários/clientes
 - ✅ Gerenciamento de produtos ou serviços
 - ✅ Listagens com filtros e paginação
-- ✅ Autenticação com JWT
 - ✅ Responsivo para mobile e desktop
 
 ### Front-end
