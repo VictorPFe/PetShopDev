@@ -52,6 +52,7 @@ export function Footer(){
                 href={`https://wa.me/5571999999999?text=Olá vim pelo site e gostaria de mais infomações.`}
                 className="bg-green-500 px-4 py-2 rounded-md"
               >
+                
                 Contato via WhatsApp
               </a>
             </div>

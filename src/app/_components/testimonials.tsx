@@ -14,6 +14,9 @@ import {
 } from "lucide-react";
 import { WhatsappLogoIcon } from "@phosphor-icons/react/dist/ssr";
 import tutor1 from '../../../public/tutor1.png'
+import tutor2 from '../../../public/tutor2.png'
+import tutora1 from '../../../public/tutora1.png'
+import tutora2 from '../../../public/tutora2.png'
 
 import Image from "next/image";
 
@@ -22,7 +25,7 @@ const testimonials = [
     content: "Levo meu cachorro no petshop toda semana e o atendimento é sempre impecável. Equipe muito carinhosa e atenciosa!",
     author: "Carla Menezes",
     role: "Tutora do Thor",
-    image: tutor1
+    image: tutora1
   },
   {
     content: "Adoro o serviço de leva e traz! Super pontuais e meu gato sempre volta bem cuidado.",
@@ -34,13 +37,13 @@ const testimonials = [
     content: "A consulta veterinária foi excelente. A veterinária explicou tudo com muita paciência e profissionalismo.",
     author: "Luciana Torres",
     role: "Tutora da Mel",
-    image: tutor1
+    image: tutora2
   },
   {
     content: "O banho e tosa deixou meu pet lindo! Além disso, percebo que ele fica super tranquilo com a equipe.",
     author: "Fábio Lima",
     role: "Tutor do Bolinha",
-    image: tutor1
+    image: tutor2
   }
 ]
 

@@ -35,3 +35,27 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # PetShopDev
+
+O projeto **PetShopDev** é uma landing page que foi criada no youtube pelo canal **Sujeito Programador**. Landing Page de Pet Shop que apresenta seus serviços e depoimentos de clientes satifeitos  
+
+## 🚀 Demonstração
+
+🔗 Acesse o projeto online: [https://pet-shop-dev.vercel.app/](https://pet-shop-dev.vercel.app/)
+
+---
+
+## 🧪 Funcionalidades
+
+- ✅ Cadastro de usuários/clientes
+- ✅ Gerenciamento de produtos ou serviços
+- ✅ Listagens com filtros e paginação
+- ✅ Autenticação com JWT
+- ✅ Responsivo para mobile e desktop
+
+### Front-end
+
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [AOS](https://michalsnik.github.io/aos/)
