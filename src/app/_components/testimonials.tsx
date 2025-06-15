@@ -14,9 +14,9 @@ import {
 } from "lucide-react";
 import { WhatsappLogoIcon } from "@phosphor-icons/react/dist/ssr";
 import tutor1 from '../../../public/tutor1.png'
-import tutor2 from '../../../public/tutor2.png'
-import tutora1 from '../../../public/tutora1.png'
-import tutora2 from '../../../public/tutora2.png'
+import tutor2 from '../../../public/tutor2.jpg'
+import tutora1 from '../../../public/tutora1.jpg'
+import tutora2 from '../../../public/tutora2.jpg'
 
 import Image from "next/image";
 
