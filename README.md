@@ -1,59 +1,108 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🐶 PetShopDev – Landing Page  
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# PetShopDev
-
-O projeto **PetShopDev** é uma landing page que foi criada no youtube pelo canal **Sujeito Programador**. Landing Page de Pet Shop que apresenta seus serviços e depoimentos de clientes satifeitos  
-
-## 🚀 Demonstração
-
-🔗 Acesse o projeto online: [https://pet-shop-dev.vercel.app/](https://pet-shop-dev.vercel.app/)
+Bem-vindo ao repositório **PetShopDev**!  
+Este projeto é uma **landing page moderna e responsiva** desenvolvida para uma pet shop, com o objetivo de apresentar seus serviços, atrair novos clientes e destacar a marca de forma profissional e acolhedora.  
 
 ---
 
-## 🧪 Funcionalidades
+## ✨ Visão Geral
 
-- ✅ Gerenciamento de produtos ou serviços
-- ✅ Listagens com filtros e paginação
-- ✅ Responsivo para mobile e desktop
+- **Nome do Projeto:** PetShopDev  
+- **Tipo:** Landing Page Institucional  
+- **Objetivo:** Criar uma página moderna para pet shop, exibindo serviços, informações e formas de contato.  
+- **Status:** ✅ Concluído / Em funcionamento  
+- **Deploy:** *(adicione o link da Vercel se houver)*  
 
-### Front-end
+---
 
-- [React](https://reactjs.org/)
-- [Next.js](https://nextjs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [AOS](https://michalsnik.github.io/aos/)
+## 🧩 Tecnologias Utilizadas
+
+| Tecnologia | Descrição |
+|-------------|------------|
+| **Next.js** | Framework React para renderização híbrida (SSR/SSG). |
+| **TypeScript** | Superset do JavaScript com tipagem estática. |
+| **Tailwind CSS** | Framework CSS utilitário para estilização moderna e responsiva. |
+| **PostCSS** | Ferramenta de processamento CSS (autoprefixer, otimização). |
+| **Vercel** | Plataforma de deploy rápida e integrada ao Next.js. |
+
+---
+
+## 🚀 Como Executar o Projeto
+
+```bash
+# Clone este repositório
+git clone https://github.com/VictorPFe/PetShopDev.git
+
+# Acesse a pasta do projeto
+cd PetShopDev
+
+# Instale as dependências
+npm install
+
+# Rode o servidor de desenvolvimento
+npm run dev
+
+# Acesse no navegador
+http://localhost:3000
+```
+
+---
+
+## 🗂 Estrutura de Pastas
+
+```
+/
+├─ public/                  # Imagens e arquivos estáticos
+├─ src/                     # Código-fonte principal
+│  ├─ components/           # Componentes reutilizáveis da interface
+│  ├─ pages/                # Páginas da aplicação (rotas Next.js)
+│  ├─ styles/               # Estilos globais e Tailwind
+│  └─ app/                  # Configuração da aplicação (Next 13+)
+├─ components.json          # Configuração de componentes
+├─ next.config.ts           # Configuração do Next.js
+├─ package.json             # Dependências e scripts npm
+├─ postcss.config.mjs       # Configuração do PostCSS
+├─ tailwind.config.ts       # Configuração do Tailwind CSS
+├─ tsconfig.json            # Configuração do TypeScript
+└─ README.md                # Este arquivo
+```
+
+---
+
+## 🎨 Design e Experiência
+
+A **PetShopDev Landing Page** foi criada com foco em:
+
+- **Responsividade** — adaptável a qualquer tela (desktop, tablet, celular).  
+- **Performance** — carregamento rápido e otimizado com Next.js.  
+- **Design limpo e acolhedor** — seguindo a identidade visual de pet shops.  
+- **Escalabilidade** — fácil de expandir para incluir blog, e-commerce ou agendamentos.  
+
+---
+
+## 🐾 Possíveis Seções da Página
+
+- 🏠 **Início:** apresentação da marca.  
+- 💬 **Sobre Nós:** missão, visão e valores.  
+- ✂️ **Serviços:** banho, tosa, consultas, pet hotel etc.  
+- 🐕 **Galeria:** fotos e vídeos dos pets e do espaço.  
+- 📞 **Contato:** telefone, redes sociais e formulário de contato.  
+
+*(As seções podem variar conforme o design do projeto.)*
+
+---
+
+## 💡 Melhorias Futuras
+
+- Integração com sistema de agendamento online.  
+- Seção de depoimentos de clientes.  
+- Blog com dicas e cuidados para pets.  
+
+---
+
+## 🧑‍💻 Autor
+
+**Desenvolvido por [VictorPFe](https://github.com/VictorPFe)** 🐾  
+Projeto criado com ❤️ e muito café ☕  
+
+---
