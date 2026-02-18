@@ -53,7 +53,7 @@ export function About() {
               </li>
               <li className="flex items-center gap-2">
                 <Check className="text-red-500" />
-                Qualidad3e é nossa prioridade.
+                Qualidade é nossa prioridade.
               </li>
             </ul>
 
