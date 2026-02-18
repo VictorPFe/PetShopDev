@@ -75,7 +75,6 @@ export function About() {
               </a>
             </div>
           </div>
-
         </div>
       </div>
     </section>
